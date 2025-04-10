@@ -21,20 +21,14 @@ if ($conn->connect_error) {
 
 <body>
 	<?php
-	
 		$username = $_POST["username"];
 		$password = $_POST["password"];
-		
-	
 	?>
 	
-
-
 	<h2>PHP Form Target Page</h2>
 	
 	<p>Welcome <?php echo $username; ?></p>
 	<p>Your password is: <?php echo $password; ?> </p>
-
 
 </body>
 
