@@ -32,8 +32,8 @@ if ($conn->connect_error) {
 
 	<h2>PHP Form Target Page</h2>
 	
-	Welcome <?php echo $username; ?><br>
-	Your password is: <?php echo $password; ?>
+	<p>Welcome <?php echo $username; ?></p>
+	<p>Your password is: <?php echo $password; ?> </p>
 
 
 </body>
