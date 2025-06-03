@@ -9,7 +9,4 @@ data.
 
 simpleform - HTML forms with Javascript validation
 
-PHP code to connect to a database and 
-process the data.  Since POST was used, the form data is transferred via the $_POST superglobal.
-
-
+other folders - PHP, uses POST, connects database and process the data
